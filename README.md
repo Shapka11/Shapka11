@@ -23,11 +23,11 @@
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
 | **Reviewer Assignment Service** | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
-| **Go Projects Hub** | `Go`, `Assembly`, `Algorithms` | Сборник решений лабораторных работ курса ITMO: алгоритмы, структуры данных и низкоуровневые оптимизации. |
 | **Pipeline Ranges** | `C++` | Имплементация `std::range` (аналог ranges из C++20). |
 | **Cache Emulator** | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
 | **Search for Intercity Tickets** | `C++`, `API` | Система поиска билетов между городами с использованием внешнего API. |
 | **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
+| **Warehouse Inventory System** | `C# 13`, `.NET 10`, `PostgreSQL`, `Docker` | Бэкенд-сервис управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и динамическая фильтрация. |
 
 ---
 
