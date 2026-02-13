@@ -27,8 +27,7 @@
 | **Cache Emulator** | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
 | **Search for Intercity Tickets** | `C++`, `API` | Система поиска билетов между городами с использованием внешнего API. |
 | **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
-| **Warehouse Inventory System** | `C# 13`, `.NET 10`, `PostgreSQL`, `Docker` | Бэкенд-сервис управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и динамическая фильтрация. |
-
+| **Warehouse Inventory System** | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
 ---
 
 <p align="center">
