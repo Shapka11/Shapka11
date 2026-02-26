@@ -1,10 +1,9 @@
 ## 🛠 Технический стек
 
 ### Языки программирования
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-BF0C27?style=flat&logo=verilog&logoColor=white)
 
 ### Инструменты и Технологии
@@ -22,12 +21,12 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
+| **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
+| **Warehouse Inventory System** | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
 | **Reviewer Assignment Service** | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
 | **Pipeline Ranges** | `C++` | Имплементация `std::range` (аналог ranges из C++20). |
 | **Cache Emulator** | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
 | **Search for Intercity Tickets** | `C++`, `API` | Система поиска билетов между городами с использованием внешнего API. |
-| **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
-| **Warehouse Inventory System** | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
 ---
 
 <p align="center">
