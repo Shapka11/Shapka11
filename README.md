@@ -6,14 +6,31 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-BF0C27?style=flat&logo=verilog&logoColor=white)
 
-### Инструменты и Технологии
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🛠 Инструменты и Технологии
 
----
+**Инфраструктура и DevOps:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-239120.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+**Базы данных и брокеры:**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Backend и API:**
+![gRPC](https://img.shields.io/badge/gRPC-347CC1?style=flat&logo=grpc&logoColor=white)
+![REST](https://img.shields.io/badge/REST-005571?style=flat&logo=reverbnation&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat&logo=cmake&logoColor=white)
+
+**Тестирование:**
+![xUnit](https://img.shields.io/badge/xUnit-1c74e3?style=flat&logo=dotnet&logoColor=white)
+![NSubstitute](https://img.shields.io/badge/NSubstitute-orange?style=flat)
+![FluentAssertions](https://img.shields.io/badge/FluentAssertions-blue?style=flat)
+
+**Архитектура и проектирование:**
+![GoF](https://img.shields.io/badge/GoF_Patterns-black?style=flat)
+![Architecture](https://img.shields.io/badge/DDD_&_Clean_Arch-8A2BE2?style=flat)
 
 ## 🚀 Проекты
 
@@ -21,12 +38,12 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
+| **Bank System Api** | `C#`, `.NET 10`, `gRPC`, `PostgreSQL`, `REST`, `Docker`, `kafka` | Эволюция банковского API: от монолита с гексагональной архитектурой до распределенной системы с gRPC, HTTP-гейтвеем и сложной бизнес-логикой. |
 | **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
 | **Warehouse Inventory System** | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
 | **Reviewer Assignment Service** | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
-| **Pipeline Ranges** | `C++` | Имплементация `std::range` (аналог ranges из C++20). |
 | **Cache Emulator** | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
-| **Search for Intercity Tickets** | `C++`, `API` | Система поиска билетов между городами с использованием внешнего API. |
+| **C++ Labworks Hub** | `C++`, `CMake`, `STL`, `GoogleTest` | Коллекция лабораторных работ: от модели песчаной кучи и написания собственных систем парсинга до создания шедулеров задач и адаптеров для работы с данными. |
 ---
 
 <p align="center">
