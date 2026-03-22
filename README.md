@@ -38,12 +38,12 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
-| **Bank System Api** | `C#`, `.NET 10`, `gRPC`, `PostgreSQL`, `REST`, `Docker`, `kafka` | Эволюция банковского API: от монолита с гексагональной архитектурой до распределенной системы с gRPC, HTTP-гейтвеем и сложной бизнес-логикой. |
-| **OOP & Design Patterns Hub** | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
-| **Warehouse Inventory System** | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
-| **Reviewer Assignment Service** | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
-| **Cache Emulator** | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
-| **C++ Labworks Hub** | `C++`, `CMake`, `STL`, `GoogleTest` | Коллекция лабораторных работ: от модели песчаной кучи и написания собственных систем парсинга до создания шедулеров задач и адаптеров для работы с данными. |
+| [**Bank System Api**](https://github.com/Shapka11/Bank-System-Api) | `C#`, `.NET 10`, `gRPC`, `PostgreSQL`, `REST`, `Docker`, `kafka` | Эволюция банковского API: от монолита с гексагональной архитектурой до распределенной системы с gRPC, HTTP-гейтвеем и сложной бизнес-логикой. |
+| [**OOP & Design Patterns Hub**](https://github.com/Shapka11/OOP-Design-Patterns-Hub) | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
+| [**Warehouse Inventory System**](https://github.com/Shapka11/Warehouse-Inventory-System) | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
+| [**Reviewer Assignment Service**](https://github.com/Shapka11/ReviewerAssignmentService) | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
+| [**Cache Emulator**](https://github.com/Shapka11/Cache_Emulator) | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
+| [**C++ Labworks Hub**](https://github.com/Shapka11/Cpp-Itmo-Hub) | `C++`, `CMake`, `STL`, `GoogleTest` | Коллекция лабораторных работ: от модели песчаной кучи и написания собственных систем парсинга до создания шедулеров задач и адаптеров для работы с данными. |
 ---
 
 <p align="center">
