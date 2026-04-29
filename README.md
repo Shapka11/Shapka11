@@ -4,7 +4,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-BF0C27?style=flat&logo=verilog&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
 
 ### 🛠 Инструменты и Технологии
 
@@ -38,12 +38,11 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
-| [**Bank System Api**](https://github.com/Shapka11/Bank-System-Api) | `C#`, `.NET 10`, `gRPC`, `PostgreSQL`, `REST`, `Docker`, `kafka` | Эволюция банковского API: от монолита с гексагональной архитектурой до распределенной системы с gRPC, HTTP-гейтвеем и сложной бизнес-логикой. |
+| [**Bank System Api**](https://github.com/Shapka11/Bank-System-Api) | `C#`, `.NET 10`, `gRPC`, `PostgreSQL`, `Docker`, `Keycloak`, `Kafka` | Распределенное банковское приложение на .NET с использованием gRPC, observability и авторизацией. |
 | [**OOP & Design Patterns Hub**](https://github.com/Shapka11/OOP-Design-Patterns-Hub) | `C#`, `.NET 9`, `ASP.NET` | Комплекс проектов с упором на архитектуру: GoF паттерны, SOLID, GRASP и Onion Architecture. |
 | [**Warehouse Inventory System**](https://github.com/Shapka11/Warehouse-Inventory-System) | `C#`, `.NET 10`, `PostgreSQL`, `Docker`, `xUnit` | Бэкенд управления складом: Clean Architecture, DDD (Rich Model), аналитика временных рядов и полное покрытие тестами (NSubstitute, FluentAssertions). |
 | [**Reviewer Assignment Service**](https://github.com/Shapka11/ReviewerAssignmentService) | `Go`, `PostgreSQL` | Микросервис для автоматического назначения ревьюеров на Pull Request'ы внутри команд разработки. |
-| [**Cache Emulator**](https://github.com/Shapka11/Cache_Emulator) | `C++` | Эмуляция поведения кэша процессора и его взаимодействия с регистрами и оперативной памятью. |
-| [**C++ Labworks Hub**](https://github.com/Shapka11/Cpp-Itmo-Hub) | `C++`, `CMake`, `STL`, `GoogleTest` | Коллекция лабораторных работ: от модели песчаной кучи и написания собственных систем парсинга до создания шедулеров задач и адаптеров для работы с данными. |
+| [**C++/CA Labworks Hub**](https://github.com/Shapka11/Cpp-Itmo-Hub) | `C++`, `RISC-V`, `Verilog`, `CMake`, `GoogleTest` | Объединенный репозиторий ИТМО: разработка эмулятора RISC-V с моделированием кэша, алгоритмы на Verilog, а также проекты на C++ (модель песчаной кучи, шедулеры, адаптеры). |
 ---
 
 <p align="center">
